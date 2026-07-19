@@ -1,20 +1,24 @@
-mhmd3mmr<!--
+<!--
   ┌────────────────────────────────────────────────────────────┐
-  │  README لملفك الشخصي على GitHub — محمد العمّار              │
-  │  بدّل كل mhmd3mmr باسم مستخدمك الفعلي على GitHub     │
+  │  README لملف mhmd3mmr الشخصي على GitHub — محمد العمّار      │
+  │  جاهز للّصق مباشرةً · العربي مكتوب كنصّ ليظهر بشكل صحيح      │
   └────────────────────────────────────────────────────────────┘
 -->
 
 <div align="center">
 
-<!-- ===== الهيدر: عنوان متحرك ===== -->
+<!-- ===== الاسم: نصّ عربي أصيل يعرضه GitHub بشكل صحيح ===== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=32&duration=3000&pause=1000&color=C8860A&center=true&vCenter=true&width=700&lines=%D9%85%D8%AD%D9%85%D9%91%D8%AF+%D8%A7%D9%84%D8%B9%D9%85%D9%91%D8%A7%D8%B1+%D9%80+Mohammad+Alammar;Founder+%C2%B7+Technologist+%C2%B7+Storyteller;Building+in+public+%D9%85%D9%86+%D9%85%D9%87%D9%8A%D9%86+%F0%9F%8C%BE" alt="typing header" />
+# محمد العمّار · Mohammad Alammar
+
+<!-- ===== سطر متحرّك بالإنجليزية فقط (اللاتيني يظهر بشكل سليم) ===== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C8860A&center=true&vCenter=true&width=650&lines=Founder+%C2%B7+Technologist+%C2%B7+Storyteller;Building+products+with+human+impact;From+Mheen+to+the+world+%F0%9F%8C%BE" alt="tagline" />
 
 <!-- ===== شارات تعريفية ===== -->
 
-![From Mheen](https://img.shields.io/badge/من_مهين-eastern_Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
-![Syrian American](https://img.shields.io/badge/Syrian_🇸🇾-1A1F2E?style=for-the-badge)
+![From Mheen](https://img.shields.io/badge/From_Mheen-Eastern_Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
+![Syrian American](https://img.shields.io/badge/Syrian_🇸🇾_American_🇺🇸-1A1F2E?style=for-the-badge)
 ![Arabic Content](https://img.shields.io/badge/1M%2B_followers-MENA_%26_Gulf-C8860A?style=for-the-badge&labelColor=1A1F2E)
 
 </div>
@@ -27,26 +31,26 @@ mhmd3mmr<!--
 
 رائد أعمال وتقني وصانع محتوى عربي، أبني منتجات رقمية ذات أثر إنساني، وأروي قصّة الهُويّة والانتماء انطلاقًا من بلدتي **مهين** في ريف حمص الشرقي.
 
+</div>
+
 ```typescript
 const mohammad = {
-  origin:      "Homs, Syria 🌾",
-  based:       "🇺🇸",
+  origin:      "Mheen, Syria 🌾",
+  based:       "Pittsburgh / Carnegie, PA 🇺🇸",
   role:        "Founder · Technologist · Content Creator",
   building:    ["TrustBridge Home Care", "Wusool", "WayAble", "miheen.com"],
   stack:       ["Next.js", "TypeScript", "Tailwind CSS", "Cloudflare"],
-  speaks:      ["العربية", "English"],
+  speaks:      ["Arabic", "English"],
   stages:      ["UN", "Web Summit", "CES", "HumanX", "Concordia"],
-  philosophy:  "التقنية في خدمة الإنسان",
+  philosophy:  "Technology in the service of people",
 };
 ```
-
-</div>
 
 ---
 
 <div align="center">
 
-### 🛠️ التقنيات — Tech Stack
+### 🛠️ التقنيات · Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,29 +64,37 @@ const mohammad = {
 
 ---
 
-<div dir="rtl" align="right">
+<div align="center">
 
-### 🚀 مشاريع مختارة — Featured Projects
+### 🚀 مشاريع مختارة · Featured Projects
 
 </div>
 
 <table>
-  <tr>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">🕊️ Wusool</h3>
-      <p align="center">منظمة غير ربحية لتمكين الشباب، مع موقع ثنائي اللغة ولوحة تحكم مخصّصة.</p>
-      <p align="center"><code>Next.js · next-intl · D1 · R2</code></p>
-    </td>
-  </tr>
-  <tr>
-   
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ miheen.com</h3>
-      <p align="center">أرشيف رقمي لتراث بلدة مهين السورية، ثنائي اللغة وغير ربحي.</p>
-      <p align="center"><code>Next.js 15 · Cloudflare Edge</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<h3>🌉 TrustBridge Home Care</h3>
+<p>وكالة رعاية منزلية غير طبية في بنسلفانيا، مرخّصة ومبنية بمنصّة إدارة كاملة.</p>
+<code>Next.js · Cloudflare · EN/AR RTL</code>
+</td>
+<td width="50%" valign="top" align="center">
+<h3>🕊️ Wusool</h3>
+<p>منظمة غير ربحية لتمكين الشباب، بموقع ثنائي اللغة ولوحة تحكم مخصّصة.</p>
+<code>Next.js · next-intl · D1 · R2</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<h3>♿ WayAble</h3>
+<p>أداة إتاحة للمواقع بواجهة زجاجية عصرية.</p>
+<code>Glassmorphic UI · Web Widget</code>
+</td>
+<td width="50%" valign="top" align="center">
+<h3>🏛️ miheen.com</h3>
+<p>أرشيف رقمي لتراث بلدة مهين، ثنائي اللغة وغير ربحي.</p>
+<code>Next.js 15 · Cloudflare Edge</code>
+</td>
+</tr>
 </table>
 
 ---
@@ -91,7 +103,6 @@ const mohammad = {
 
 ### 📊 إحصائيات GitHub
 
-<!-- بدّل mhmd3mmr باسمك -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmd3mmr&show_icons=true&hide_border=true&title_color=C8860A&icon_color=C8860A&text_color=808080&bg_color=1A1F2E" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd3mmr&hide_border=true&background=1A1F2E&stroke=808080&ring=C8860A&fire=C8860A&currStreakLabel=C8860A" />
 
@@ -105,7 +116,7 @@ const mohammad = {
 
 <div align="center">
 
-### 🎤 على المنصّات العالمية
+### 🎤 على المنصّات العالمية · Global Stages
 
 ![UN](https://img.shields.io/badge/United_Nations-009EDB?style=flat-square&logo=unitednations&logoColor=white)
 ![Web Summit](https://img.shields.io/badge/Web_Summit-1A1F2E?style=flat-square)
@@ -119,9 +130,8 @@ const mohammad = {
 
 <div align="center">
 
-### 🤝 تواصل معي — Let's Connect
+### 🤝 تواصل معي · Let's Connect
 
-<!-- بدّل الروابط بحساباتك -->
 [![Website](https://img.shields.io/badge/mohammadalammar.com-C8860A?style=for-the-badge&logo=safari&logoColor=white)](https://mohammadalammar.com)
 [![X](https://img.shields.io/badge/@mhmd3mmr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mhmd3mmr)
 [![Instagram](https://img.shields.io/badge/@mhmd3mmr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmd3mmr)
@@ -131,6 +141,6 @@ const mohammad = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmd3mmr&style=flat-square&color=C8860A&label=Profile+Views)
 
-<sub>⭐ التقنية في خدمة الإنسان — Building bridges, one line at a time · من سوريا 🌾</sub>
+<sub>⭐ التقنية في خدمة الإنسان · Building bridges, one line at a time · من مهين 🌾</sub>
 
 </div>
