@@ -13,12 +13,12 @@
 
 <!-- ===== سطر متحرّك بالإنجليزية فقط (اللاتيني يظهر بشكل سليم) ===== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C8860A&center=true&vCenter=true&width=650&lines=Founder+%C2%B7+Technologist+%C2%B7+Storyteller;Building+products+with+human+impact;From+Mheen+to+the+world+%F0%9F%8C%BE" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C8860A&center=true&vCenter=true&width=650&lines=Founder+%C2%B7+Technologist+%C2%B7+Storyteller;Building+products+with+human+impact;From+Syria+to+the+world+%F0%9F%8C%BE" alt="tagline" />
 
 <!-- ===== شارات تعريفية ===== -->
 
-![From Syria 🇸🇾 ](https://img.shields.io/badge/From_Mheen-Eastern_Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
-![Syrian American](https://img.shields.io/badge/Syrian_🇸🇾-1A1F2E?style=for-the-badge)
+![From Syria 🇸🇾 ](https://img.shields.io/badge/From_Syria-Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
+![Syrian](https://img.shields.io/badge/Syrian_🇸🇾-1A1F2E?style=for-the-badge)
 ![Arabic Content](https://img.shields.io/badge/1M%2B_followers-MENA_%26_Gulf-C8860A?style=for-the-badge&labelColor=1A1F2E)
 
 </div>
