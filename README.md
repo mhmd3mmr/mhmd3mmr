@@ -35,7 +35,7 @@
 
 ```typescript
 const mohammad = {
-  origin:      " Syria ",
+  origin:      " Syria 🇸🇾 ",
   based:       " 🇺🇸",
   role:        "Founder · Technologist · Content Creator",
   building:    ["TrustBridge Home Care", "Wusool", "WayAble", "miheen.com"],
