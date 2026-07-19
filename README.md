@@ -18,7 +18,7 @@
 <!-- ===== شارات تعريفية ===== -->
 
 ![From Mheen](https://img.shields.io/badge/From_Mheen-Eastern_Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
-![Syrian American](https://img.shields.io/badge/Syrian_🇸🇾_American_🇺🇸-1A1F2E?style=for-the-badge)
+![Syrian American](https://img.shields.io/badge/Syrian_🇸🇾-1A1F2E?style=for-the-badge)
 ![Arabic Content](https://img.shields.io/badge/1M%2B_followers-MENA_%26_Gulf-C8860A?style=for-the-badge&labelColor=1A1F2E)
 
 </div>
@@ -29,14 +29,14 @@
 
 ### 👋 نبذة عني
 
-رائد أعمال وتقني وصانع محتوى عربي، أبني منتجات رقمية ذات أثر إنساني، وأروي قصّة الهُويّة والانتماء انطلاقًا من بلدتي **مهين** في ريف حمص الشرقي.
+رائد أعمال وتقني وصانع محتوى عربي، أبني منتجات رقمية ذات أثر إنساني، وأروي قصّة الهُويّة والانتماء
 
 </div>
 
 ```typescript
 const mohammad = {
-  origin:      "Mheen, Syria 🌾",
-  based:       "Pittsburgh / Carnegie, PA 🇺🇸",
+  origin:      " Syria ",
+  based:       " 🇺🇸",
   role:        "Founder · Technologist · Content Creator",
   building:    ["TrustBridge Home Care", "Wusool", "WayAble", "miheen.com"],
   stack:       ["Next.js", "TypeScript", "Tailwind CSS", "Cloudflare"],
@@ -72,11 +72,7 @@ const mohammad = {
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-<h3>🌉 TrustBridge Home Care</h3>
-<p>وكالة رعاية منزلية غير طبية في بنسلفانيا، مرخّصة ومبنية بمنصّة إدارة كاملة.</p>
-<code>Next.js · Cloudflare · EN/AR RTL</code>
-</td>
+
 <td width="50%" valign="top" align="center">
 <h3>🕊️ Wusool</h3>
 <p>منظمة غير ربحية لتمكين الشباب، بموقع ثنائي اللغة ولوحة تحكم مخصّصة.</p>
@@ -84,11 +80,7 @@ const mohammad = {
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
-<h3>♿ WayAble</h3>
-<p>أداة إتاحة للمواقع بواجهة زجاجية عصرية.</p>
-<code>Glassmorphic UI · Web Widget</code>
-</td>
+
 <td width="50%" valign="top" align="center">
 <h3>🏛️ miheen.com</h3>
 <p>أرشيف رقمي لتراث بلدة مهين، ثنائي اللغة وغير ربحي.</p>
@@ -141,6 +133,6 @@ const mohammad = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmd3mmr&style=flat-square&color=C8860A&label=Profile+Views)
 
-<sub>⭐ التقنية في خدمة الإنسان · Building bridges, one line at a time · من مهين 🌾</sub>
+<sub>⭐ التقنية في خدمة الإنسان · Building bridges, one line at a time </sub>
 
 </div>
