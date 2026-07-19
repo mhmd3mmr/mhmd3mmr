@@ -17,7 +17,7 @@
 
 <!-- ===== شارات تعريفية ===== -->
 
-![From Mheen](https://img.shields.io/badge/From_Mheen-Eastern_Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
+![From Syria 🇸🇾 ](https://img.shields.io/badge/From_Mheen-Eastern_Homs-C8860A?style=for-the-badge&labelColor=1A1F2E)
 ![Syrian American](https://img.shields.io/badge/Syrian_🇸🇾-1A1F2E?style=for-the-badge)
 ![Arabic Content](https://img.shields.io/badge/1M%2B_followers-MENA_%26_Gulf-C8860A?style=for-the-badge&labelColor=1A1F2E)
 
